@@ -6,6 +6,7 @@ public class Facturacion {
 
     public static void main(String[] args) {
 
+        // 30.2 - Lab - Variables, Tipos de Datos y Operadores - ENTREGA
         String nombreProducto;
         double precioProducto;
         int cantidadComprar;
